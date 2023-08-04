@@ -1,0 +1,35 @@
+{
+	"characters": [
+			{
+					"id": 1,
+					"name": "Grugg",
+					"race": "orc",
+					"location": "Gorgorlow, Mordor"
+			},
+			{
+					"id": 2,
+					"name": "Aridan",
+					"race": "elven",
+					"location": "Lothlorien"
+			},
+			{
+					"id": 3,
+					"name": "Randal",
+					"race": "human",
+					"location": "Gondor"
+			},
+			{
+					"id": 4,
+					"name": "Goflin",
+					"race": "dwarf",
+					"location": "Belegost"
+			},
+			{
+					"id": 5,
+					"name": "Ancaldin",
+					"race": "dragon",
+					"location": "Nargothrond"
+			}
+		
+	]
+}
